@@ -2,7 +2,6 @@
   "name": "firesnap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pravunathsingh.github.io/firesnap",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
@@ -17,7 +16,6 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
